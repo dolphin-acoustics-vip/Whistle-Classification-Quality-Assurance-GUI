@@ -3,3 +3,4 @@ numpy==1.22.4
 scikit_learn==1.0.2
 shap==0.44.1
 tensorflow==2.8.0
+librosa==0.9.1
